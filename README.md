@@ -1,2 +1,2 @@
 # amazon_clone
-this my fist repository
+this is my first repository(on Github)
